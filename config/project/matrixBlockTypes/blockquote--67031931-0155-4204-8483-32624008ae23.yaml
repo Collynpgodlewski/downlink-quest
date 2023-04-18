@@ -1,11 +1,11 @@
-field: f4696807-fad3-4e93-a26a-e1946637d383
+field: f4696807-fad3-4e93-a26a-e1946637d383 # Body
 fieldLayouts:
   17e44b1b-29eb-4b2d-af27-7cabc3c1ac4a:
     tabs:
       -
         elements:
           -
-            fieldUid: 1a3b8507-a4a7-472b-9b10-e99f057d5cd6
+            fieldUid: 1a3b8507-a4a7-472b-9b10-e99f057d5cd6 # Quote
             instructions: null
             label: null
             required: '0'
@@ -14,7 +14,7 @@ fieldLayouts:
             warning: null
             width: 100
           -
-            fieldUid: b0d7dcf1-30a9-4fb9-90ba-3fdf5927e19c
+            fieldUid: b0d7dcf1-30a9-4fb9-90ba-3fdf5927e19c # Citation
             instructions: null
             label: null
             required: '0'
@@ -25,7 +25,7 @@ fieldLayouts:
         name: Content
         sortOrder: 1
 fields:
-  1a3b8507-a4a7-472b-9b10-e99f057d5cd6:
+  1a3b8507-a4a7-472b-9b10-e99f057d5cd6: # Quote
     contentColumnType: text
     fieldGroup: null
     handle: quote
@@ -53,7 +53,7 @@ fields:
     translationKeyFormat: null
     translationMethod: none
     type: craft\redactor\Field
-  b0d7dcf1-30a9-4fb9-90ba-3fdf5927e19c:
+  b0d7dcf1-30a9-4fb9-90ba-3fdf5927e19c: # Citation
     contentColumnType: text
     fieldGroup: null
     handle: citation

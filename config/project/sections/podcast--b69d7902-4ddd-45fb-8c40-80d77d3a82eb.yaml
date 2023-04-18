@@ -12,7 +12,7 @@ previewTargets:
         - '{url}'
 propagationMethod: all
 siteSettings:
-  35c13b6c-aaee-499a-9580-96963583b7f4:
+  35c13b6c-aaee-499a-9580-96963583b7f4: # Downlink
     enabledByDefault: true
     hasUrls: true
     template: entry

@@ -1,5 +1,5 @@
 contentColumnType: text
-fieldGroup: 183cebdb-02fe-4dd5-8b3e-450522d38342
+fieldGroup: 183cebdb-02fe-4dd5-8b3e-450522d38342 # Review
 handle: bookASIN
 instructions: 'The ASIN from Amazon.com for this book. Your affiliate ID will be automatically included in the URL. '
 name: 'Book ASIN'

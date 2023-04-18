@@ -27,7 +27,7 @@ fieldLayouts:
             warning: null
             width: 100
           -
-            fieldUid: f4696807-fad3-4e93-a26a-e1946637d383
+            fieldUid: f4696807-fad3-4e93-a26a-e1946637d383 # Body
             instructions: null
             label: null
             required: '1'
@@ -40,7 +40,7 @@ fieldLayouts:
 handle: homepage
 hasTitleField: true
 name: Homepage
-section: b2bfca42-e66d-4231-8a3c-7245e9b49ac1
+section: b2bfca42-e66d-4231-8a3c-7245e9b49ac1 # Homepage
 sortOrder: 0
 titleFormat: null
 titleTranslationKeyFormat: null

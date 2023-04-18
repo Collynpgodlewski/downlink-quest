@@ -1,0 +1,8 @@
+{# handler template for all listing pages to display content items #}
+
+{# item/blog/link.twig  IF IT IS VALID, IT GOES THROUGH #}
+{# item/blog/default LINK DOESNT EXIST? BLOG, DEFAULT #}
+{# item/default THE FINAL FALLBACK IF IT DOENST EXIST #}
+
+
+{% include ["item/" ~ entry.section.handle ~ "/" ~ entry.type, "item" ~ entry.section.handle ~ "/default", "item/default"] %}

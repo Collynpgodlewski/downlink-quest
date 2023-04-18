@@ -27,7 +27,7 @@ fieldLayouts:
             warning: null
             width: 100
           -
-            fieldUid: f4696807-fad3-4e93-a26a-e1946637d383
+            fieldUid: f4696807-fad3-4e93-a26a-e1946637d383 # Body
             instructions: null
             label: null
             required: '0'
@@ -36,7 +36,7 @@ fieldLayouts:
             warning: null
             width: 100
           -
-            fieldUid: 6f055d5e-e5e3-4363-81de-c7dff55ad3b3
+            fieldUid: 6f055d5e-e5e3-4363-81de-c7dff55ad3b3 # Book ASIN
             instructions: null
             label: null
             required: '0'
@@ -49,7 +49,7 @@ fieldLayouts:
 handle: default
 hasTitleField: true
 name: Default
-section: 0464fede-3a5f-4c7d-9de1-c1b8021eaa8d
+section: 0464fede-3a5f-4c7d-9de1-c1b8021eaa8d # Review
 sortOrder: 0
 titleFormat: null
 titleTranslationKeyFormat: null

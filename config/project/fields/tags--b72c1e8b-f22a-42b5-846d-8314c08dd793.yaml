@@ -1,5 +1,5 @@
 contentColumnType: string
-fieldGroup: f445487e-f6a2-471c-a08b-3096f57da2d0
+fieldGroup: f445487e-f6a2-471c-a08b-3096f57da2d0 # Default
 handle: tags
 instructions: null
 name: Tags
@@ -12,7 +12,7 @@ settings:
   localizeRelations: false
   selectionLabel: null
   showSiteMenu: true
-  source: 'taggroup:237da2ff-504f-4e2c-bf6c-152bf831c8f1'
+  source: 'taggroup:237da2ff-504f-4e2c-bf6c-152bf831c8f1' # Default
   sources: '*'
   targetSiteId: null
   validateRelatedElements: false

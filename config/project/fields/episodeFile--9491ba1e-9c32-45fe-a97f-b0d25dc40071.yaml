@@ -1,5 +1,5 @@
 contentColumnType: string
-fieldGroup: d6dcd64b-f047-48ff-9336-a67a6c8f8541
+fieldGroup: d6dcd64b-f047-48ff-9336-a67a6c8f8541 # Podcast
 handle: episodeFile
 instructions: ''
 name: 'Episode File'
@@ -9,7 +9,7 @@ settings:
   allowUploads: true
   allowedKinds:
     - audio
-  defaultUploadLocationSource: 'volume:7c831f23-da90-4f0d-90a2-454375ee2e8e'
+  defaultUploadLocationSource: 'volume:7c831f23-da90-4f0d-90a2-454375ee2e8e' # Podcast Episodes
   defaultUploadLocationSubpath: '{slug}'
   limit: '1'
   localizeRelations: false
@@ -19,11 +19,11 @@ settings:
   showSiteMenu: true
   showUnpermittedFiles: false
   showUnpermittedVolumes: true
-  singleUploadLocationSource: 'volume:7c831f23-da90-4f0d-90a2-454375ee2e8e'
+  singleUploadLocationSource: 'volume:7c831f23-da90-4f0d-90a2-454375ee2e8e' # Podcast Episodes
   singleUploadLocationSubpath: ''
   source: null
   sources:
-    - 'volume:7c831f23-da90-4f0d-90a2-454375ee2e8e'
+    - 'volume:7c831f23-da90-4f0d-90a2-454375ee2e8e' # Podcast Episodes
   targetSiteId: null
   useSingleFolder: false
   validateRelatedElements: false
